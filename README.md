@@ -33,23 +33,24 @@ The following tools and libraries were used in this project:
     Save the file as owid-covid-data.csv in the project directory.
 
 3. **Install Dependencies**:
-    Ensure you have Python installed, then install the required libraries:
-        ```python
-            pip install pandas matplotlib seaborn plotly jupyter
+   Ensure you have Python installed, then install the required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn plotly jupyter
+   ```
 
 4. **Run the Notebook**: 
     Open the Jupyter Notebook:
-        ```markdown
-        ```jupyter
-            jupyter notebook "COVID 19 Tracker.ipynb"
+   ```bash
+   jupyter notebook "COVID 19 Tracker.ipynb"
+   ```
 
     Follow the step-by-step analysis in the notebook.
 
 5. **Optional Export**: 
-    Export the notebook to PDF or PowerPoint for presentation:
-        ```markdown
-        ```jupyter
-        jupyter nbconvert --to pdf "COVID 19 Tracker.ipynb"
+   Export the notebook to PDF or PowerPoint for presentation:
+   ```bash
+   jupyter nbconvert --to pdf "COVID 19 Tracker.ipynb"
+   ```
 
 # Insights and Reflections
 
