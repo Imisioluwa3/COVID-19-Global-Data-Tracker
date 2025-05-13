@@ -35,13 +35,13 @@ The following tools and libraries were used in this project:
 3. **Install Dependencies**:
     Ensure you have Python installed, then install the required libraries:
         ```python
-        pip install pandas matplotlib seaborn plotly jupyter
+            pip install pandas matplotlib seaborn plotly jupyter
 
 4. **Run the Notebook**: 
     Open the Jupyter Notebook:
         ```markdown
         ```jupyter
-        jupyter notebook "COVID 19 Tracker.ipynb"
+            jupyter notebook "COVID 19 Tracker.ipynb"
 
     Follow the step-by-step analysis in the notebook.
 
