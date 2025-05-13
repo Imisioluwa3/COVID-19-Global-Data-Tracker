@@ -25,7 +25,7 @@ The following tools and libraries were used in this project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Imisioluwa3/COVID-19-Global-Data-Tracker.git
    cd COVID-19-Global-Data-Tracker
 
 2. **Download the Dataset**:
@@ -39,6 +39,7 @@ The following tools and libraries were used in this project:
 
 4. **Run the Notebook**: 
     Open the Jupyter Notebook:
+        ```markdown
         ```jupyter
         jupyter notebook "COVID 19 Tracker.ipynb"
 
@@ -46,6 +47,7 @@ The following tools and libraries were used in this project:
 
 5. **Optional Export**: 
     Export the notebook to PDF or PowerPoint for presentation:
+        ```markdown
         ```jupyter
         jupyter nbconvert --to pdf "COVID 19 Tracker.ipynb"
 
